@@ -1,0 +1,1 @@
+<applet code="messageApplet.class" height="300" width="200"> TESTE </applet>
