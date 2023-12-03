@@ -4,7 +4,9 @@ import java.awt.Graphics;
 public class messageApplet extends Applet {
     public void draw(Graphics g) {
 
-        g.drawString("VOCÊ FOI HACKEADO!", 50, 50);
+        g.drawString("VOCÊ FOI HACKEADO!", 1, 1);
         
     }
+    
+
 }
