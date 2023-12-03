@@ -32,7 +32,7 @@
     padding: 20px 0;
   }
   
-  section.news {
+  section.noticias {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-gap: 20px;
@@ -58,21 +58,6 @@
   article img {
     display: block;
     margin: 0 auto;
-  }
-  
-  article a {
-    display: inline-block;
-    margin-top: 10px;
-    text-decoration: none;
-    padding: 8px 16px;
-    background-color: #837e7e;
-    color: #fff;
-    border-radius: 3px;
-    transition: background-color 0.3s ease;
-  }
-  
-  article a:hover {
-    background-color: #837e7ead;
   }
   
   footer {
